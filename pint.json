@@ -1,0 +1,9 @@
+{
+  "preset": "psr12",
+  "rules": {
+    "ordered_imports": {
+      "sort_algorithm": "alpha"
+    },
+    "not_operator_with_successor_space": true
+  }
+}
